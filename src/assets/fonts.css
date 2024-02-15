@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Product Sans";
+
+  src: url("./product-sans-full/ProductSans-Black.ttf") format("truetype");
+  /* src: url("./product-sans-full/ProductSans-BlackItalic.ttf") format("truetype"); */
+
+  src: url("./product-sans-full/ProductSans-Bold.ttf") format("truetype");
+  /* src: url("./product-sans-full/ProductSans-BoldItalic.ttf") format("truetype");
+  src: url("./product-sans-full/ProductSans-Italic.ttf") format("truetype"); */
+
+  src: url("./product-sans-full/ProductSans-Light.ttf") format("truetype");
+  /* src: url("./product-sans-full/ProductSans-LightItalic.ttf") format("truetype"); */
+
+  src: url("./product-sans-full/ProductSans-Medium.ttf") format("truetype");
+  /* src: url("./product-sans-full/ProductSans-MediumItalic.ttf") format("truetype"); */
+
+  src: url("./product-sans-full/ProductSans-Regular.ttf") format("truetype");
+  /* src: url("./product-sans-full/ProductSans-Thin.ttf") format("truetype"); */
+  /* src: url("./product-sans-full/ProductSans-ThinItalic.ttf") format("truetype"); */
+}
