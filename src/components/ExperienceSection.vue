@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#2e364a]" ref="timeline">
+    <div class="bg-[#1b1b1b]" ref="timeline">
         <!-- Experience section heading -->
         <div class="w-11/12 py-10 md:w-9/12 lg:w-9/12 xl:w-9/12 2xl:w-9/12 3xl:w-7/12 4xl:w-5/12 mx-auto">
             <div class="font-mono text-white text-3xl mb-5 tracking-wider">Work Experience</div>

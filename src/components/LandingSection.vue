@@ -10,7 +10,7 @@ export default {
 </script>
 
 <template>
-    <div class="bg-[#2A4365] h-sm md:h-md flex flex-col justify-center items-center md:h-screen tracking-wider">
+    <div class="bg-[#243b4a] h-sm md:h-md flex flex-col justify-center items-center md:h-screen tracking-wider">
 
         <!-- <img class="loader" src="../assets/images/konaha.png" alt=""> -->
         <div>

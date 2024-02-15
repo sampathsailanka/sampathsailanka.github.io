@@ -6,7 +6,7 @@ export default {
 </script>
 
 <template>
-    <div class="bg-[#1d1d1d]">
+    <div class="bg-[#1b1b1b]">
 
         <div class="w-11/12 py-10 md:w-9/12 lg:w-9/12 xl:w-9/12 2xl:w-9/12 3xl:w-7/12 4xl:w-5/12 mx-auto">
 

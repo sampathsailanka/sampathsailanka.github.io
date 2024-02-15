@@ -6,7 +6,7 @@ export default {
 
 <template>
     <!-- <div class="bg-[#10130e]"> -->
-    <div class="bg-[#0f120d]">
+    <div class="bg-[#1b1b1b]">
         <!-- <div class="bg-[#181818]"> -->
         <div class="w-11/12 py-10 md:w-9/12 lg:w-9/12 xl:w-9/12 2xl:w-9/12 3xl:w-7/12 4xl:w-5/12 mx-auto">
 
