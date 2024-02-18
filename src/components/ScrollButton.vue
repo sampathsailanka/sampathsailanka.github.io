@@ -21,7 +21,7 @@ export default {
 </script>
 
 <template>
-    <button v-on:click="scroller">
+    <button class="hidden xl:block" v-on:click="scroller">
         <a :href="idValue">
             <div
                 class="w-10 h-10 bg-cyan-600 rounded-full fixed bottom-5 right-5 flex justify-center items-center z-50 shadow-lg">
