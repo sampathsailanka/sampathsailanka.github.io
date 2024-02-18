@@ -153,6 +153,7 @@ export default {
     left: 50%;
     margin-left: -3px;
     z-index: -1;
+    border-radius: 15px;
     animation: moveline 6s linear forwards;
 }
 
